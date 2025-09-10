@@ -1,0 +1,27 @@
+name: projeto_rede_social_receitas_telas_flutter
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.9.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  google_fonts: ^6.2.1
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - lib/assets/images/cookies.jpg
+    - lib/assets/images/avocado.jpg
+    - lib/assets/images/pasta.jpg
+    - lib/assets/images/salad.jpg
+    - lib/assets/images/cake.jpg
