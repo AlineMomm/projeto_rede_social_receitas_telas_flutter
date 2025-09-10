@@ -1,4 +1,4 @@
-# projeto_rede_social_receitas_telas_flutter
+# Trabalho Avaliativo - Desenvolvimento de Interfaces Mobile com Flutter - Desenvolvimento de Sistemas Móveis e Distribuídos
 
 Objetivo Geral
 
